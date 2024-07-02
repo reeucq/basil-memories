@@ -472,7 +472,7 @@ video {
 
 body {
   position: relative;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   background-position: left;
   background-repeat: no-repeat;
